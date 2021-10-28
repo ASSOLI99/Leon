@@ -3,7 +3,7 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    overflow-x: clip;
+    overflow-x: hidden;
 }
 :root{
     --main-color: #10cab7;
