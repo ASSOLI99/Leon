@@ -501,6 +501,7 @@ text-align: center;
     display: flex;
     justify-content: center;
     margin-top: 20px;
+    margin-bottom: 5px;
 }
 .contact .info .social a {
     color: var(--secondery-color);
